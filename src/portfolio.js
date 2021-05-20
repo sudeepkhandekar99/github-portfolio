@@ -15,7 +15,7 @@ const greeting = {
     "Just a 21 y/o who loves Algo/DS and C++ over ML/DL and python. I love to practice competitive programming. I also like to develop websites occasionally."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1xsmP8EveLOgVpx4JCla_8nieelJ-ESSP/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -36,14 +36,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "TECH ENTHUSIAST WHO WANTS TO EXPLORE DIFFERENT TECHNOLOGIES",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Build machine learning & deep learning models"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Participate in competitive programming"
     )
   ],
 
