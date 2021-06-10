@@ -12,7 +12,7 @@ const greeting = {
   username: "sudeep",
   title: "Hi all, I'm Sudeep",
   subTitle: emoji(
-    "Just a 21 y/o who loves Algo/DS and C++ over ML/DL and python. I love to practice competitive programming. I also like to develop websites occasionally."
+    "I like working around data. Analysing data or making a machine learning model to work with the data is something I enjoy doing. In my free time, I practice competitive programming or chess. Also, I am a freelance web developer!"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1xsmP8EveLOgVpx4JCla_8nieelJ-ESSP/view?usp=sharing",
@@ -114,7 +114,7 @@ const educationInfo = {
         "Smart India Hackathon finalist - 2018",
         "Second place in 303 minutes of <code/> - 2019",
         "IIT Bombay machine learning summer camp - 2019",
-        "Webmaster at Indian Society for Technical Education, VIT - 2020", 
+        "Webmaster at Indian Society for Technical Education, VIT - 2020",
         "Chief technology officer at The Blessed Wardrobe - 2020"
       ]
     },
@@ -157,15 +157,15 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Chief Executive Officer",
+      role: "Chief Technical Officer",
       company: "The Blessed Wardrobe",
       companylogo: require("./assets/images/tbw.png"),
       date: "June 2021 – Present",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "TBW offers an array of Indo western ethnic wear.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "During the COVID-19 pandemic, migrated the offline store to online.",
+        "Worked as a full stack developer to make the entire website.",
       ]
     },
     {
@@ -174,7 +174,7 @@ const workExperiences = {
       companylogo: require("./assets/images/iste.jpg"),
       date: "May 2020 – May 2021",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "As Webmaster at Indian Society for Technical Education, Vidyalankar Institute of Technology, I desgined and built the wesbite for ISTE, VIT."
     },
     {
       role: "Software Engineer Intern",
@@ -182,7 +182,7 @@ const workExperiences = {
       companylogo: require("./assets/images/iitb.jpg"),
       date: "May 2019 – June 2019",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "A 4 week workshop and 2 week internship with WAC in education technology sector where I learned implementation, cost and loss of many supervised and unsupervised machine learning techniques."
     }
   ]
 };
@@ -279,7 +279,7 @@ const achievementSection = {
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/pwaLogo.webp"),
       footerLink: [
-        {name: "Certification", url: ""},
+        { name: "Certification", url: "" },
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
