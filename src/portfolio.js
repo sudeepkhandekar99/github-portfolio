@@ -174,7 +174,7 @@ const workExperiences = {
       companylogo: require("./assets/images/iste.jpg"),
       date: "May 2020 – May 2021",
       desc:
-        "As Webmaster at Indian Society for Technical Education, Vidyalankar Institute of Technology, I desgined and built the wesbite for ISTE, VIT."
+        "As Webmaster at Indian Society for Technical Education, Vidyalankar Institute of Technology, I desgined and built the wesbite for ISTE, VIT and handled various technical events. Also, conducted coding contests 'Codenziance' in VIT to talent hunt good programmers!"
     },
     {
       role: "Software Engineer Intern",
